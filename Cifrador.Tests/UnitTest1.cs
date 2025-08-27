@@ -29,6 +29,22 @@ public class UnitTest1
         string resultado = Jeringozo.Encriptar("Hola");
         Assert.Equal("Hopolapa", resultado);
     }
+    
+    [Fact]
+    public void Encriptar_DosVeces()
+    {
+        string resultadoUno = Jeringozo.Encriptar("aparato");
+        Assert.Equal("apapaparapatopo", resultadoUno);
+
+        string resultadoDos = Jeringozo.Desencriptar(resultadoUno);
+        Assert.Equal("aparato", resultadoDos);
+        
+        string resultadoTres = Jeringozo.Encriptar(resultadoDos);
+        Assert.Equal("apapaparapatopo", resultadoTres);
+        
+        string resultadoCuatro = Jeringozo.Desencriptar(resultadoTres);
+        Assert.Equal("aparato", resultadoCuatro);
+    }
 
     [Fact]
     public void Desencriptar_ConMayusculas_DeberiaMantenerMayusculas()
