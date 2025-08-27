@@ -15,16 +15,30 @@ while (true)
             {
                 case "1":
                     Console.Write("Escribe un texto para encriptar: ");
-                    string texto = Console.ReadLine()!;
-                    string encriptado = Jeringozo.Encriptar(texto);
-                    Console.WriteLine($"Texto encriptado:\n {encriptado}");
+                    string texto = Console.ReadLine();
+                    
+                    if (texto.Trim() != "")
+                    {
+                      string encriptado = Jeringozo.Encriptar(texto);
+                      Console.WriteLine($"Texto encriptado:\n {encriptado}");
+                    }else 
+                    {
+                      Console.WriteLine( "Debe ingresar un texto válido para cifrar" );
+                    }
                     break;
 
                 case "2":
                     Console.Write("Escribe un texto para desencriptar: ");
-                    string textoEncriptado = Console.ReadLine()!;
-                    string desencriptado = Jeringozo.Desencriptar(textoEncriptado);
-                    Console.WriteLine($"Texto desencriptado:\n {desencriptado}");
+                    string textoEncriptado = Console.ReadLine();
+
+                    if (textoEncriptado.Trim() != "")
+                    {
+                      string desencriptado = Jeringozo.Desencriptar(textoEncriptado);
+                      Console.WriteLine($"Texto desencriptado:\n {desencriptado}");
+                    }else
+                    {
+                      Console.WriteLine( "Debe ingresar un texto válido para desencriptar" );
+                    }
                     break;
 
                 case "3":

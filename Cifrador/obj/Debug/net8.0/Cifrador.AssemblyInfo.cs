@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cifrador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e07b51c3b247a0622d1a134623eef67011877ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef73d285fdd7c3138a1570ef4911fd9f68849fea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cifrador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cifrador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

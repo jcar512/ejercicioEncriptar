@@ -2,21 +2,6 @@ namespace Cifrador.Tests;
 
 public class UnitTest1
 {
-    [Fact]
-    public void Encriptar_TextoVacio_DeberiaRetornarMensajeError()
-    {
-        string resultado = Jeringozo.Encriptar("");
-        Assert.Equal("Debe ingresar un texto válido para cifrar", resultado);
-    }
-
-    [Fact]
-    public void Desencriptar_TextoVacio_DeberiaRetornarMensajeError()
-    {
-        string resultado = Jeringozo.Desencriptar("");
-        Assert.Equal("Debe ingresar un texto válido para desencriptar", resultado);
-    }
-
-
     [Theory]
     [InlineData("hola", "hopolapa")]
     [InlineData("papa", "papapapa")]

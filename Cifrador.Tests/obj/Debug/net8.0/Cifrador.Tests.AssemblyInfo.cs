@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cifrador.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef73d285fdd7c3138a1570ef4911fd9f68849fea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cifrador.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cifrador.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
