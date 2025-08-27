@@ -1,0 +1,15 @@
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\bin\Debug\net8.0\Cifrador.exe
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\bin\Debug\net8.0\Cifrador.deps.json
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\bin\Debug\net8.0\Cifrador.runtimeconfig.json
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\bin\Debug\net8.0\Cifrador.dll
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\bin\Debug\net8.0\Cifrador.pdb
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.AssemblyInfoInputs.cache
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.AssemblyInfo.cs
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.csproj.CoreCompileInputs.cache
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.dll
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\refint\Cifrador.dll
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.pdb
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.genruntimeconfig.cache
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\ref\Cifrador.dll
+C:\Users\Joaco\source\repos\Cifrador\Cifrador\obj\Debug\net8.0\Cifrador.sourcelink.json

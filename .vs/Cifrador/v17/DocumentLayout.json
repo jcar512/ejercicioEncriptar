@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joaco\\source\\repos\\Cifrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{644913B5-4F29-4ECB-9BAB-C7D0A4A2B0E4}|Cifrador\\Cifrador.csproj|c:\\users\\joaco\\source\\repos\\cifrador\\cifrador\\jeringozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644913B5-4F29-4ECB-9BAB-C7D0A4A2B0E4}|Cifrador\\Cifrador.csproj|solutionrelative:cifrador\\jeringozo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{644913B5-4F29-4ECB-9BAB-C7D0A4A2B0E4}|Cifrador\\Cifrador.csproj|c:\\users\\joaco\\source\\repos\\cifrador\\cifrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{644913B5-4F29-4ECB-9BAB-C7D0A4A2B0E4}|Cifrador\\Cifrador.csproj|solutionrelative:cifrador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jeringozo.cs",
+              "DocumentMoniker": "C:\\Users\\Joaco\\source\\repos\\Cifrador\\Cifrador\\Jeringozo.cs",
+              "RelativeDocumentMoniker": "Cifrador\\Jeringozo.cs",
+              "ToolTip": "C:\\Users\\Joaco\\source\\repos\\Cifrador\\Cifrador\\Jeringozo.cs",
+              "RelativeToolTip": "Cifrador\\Jeringozo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:36:59.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joaco\\source\\repos\\Cifrador\\Cifrador\\Program.cs",
+              "RelativeDocumentMoniker": "Cifrador\\Program.cs",
+              "ToolTip": "C:\\Users\\Joaco\\source\\repos\\Cifrador\\Cifrador\\Program.cs",
+              "RelativeToolTip": "Cifrador\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T19:36:31.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
